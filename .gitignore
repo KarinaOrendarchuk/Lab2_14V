@@ -1,0 +1,24 @@
+################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/V-14_Lab2
+/Lab2_1/bin/Debug/netcoreapp3.1
+/Lab2_1/obj
+/Lab2_2/obj
+/Lab2_2/bin/Debug/netcoreapp3.1
+/Lab2_3A/obj
+/Lab2_3A/bin/Debug/netcoreapp3.1
+/Lab2_3B/obj
+/Lab2_3B/bin/Debug
+/Lab2_5/obj
+/Lab2_5/bin/Debug/netcoreapp3.1
+/TestLab2_3A/obj
+/TestLab2_3A/bin/Debug/netcoreapp3.1
+/V-14_Lab2.sln
+/TestLab2_3A/TestLab2_3A.csproj
+/Lab2_5/Lab2_5.csproj
+/Lab2_3B/Lab2_3B.csproj
+/Lab2_3A/Lab2_3A.csproj
+/Lab2_2/Lab2_2.csproj
+/Lab2_1/Lab2_1.csproj
